@@ -1,6 +1,11 @@
-// the first alert
-alert("Hello, World!"); 
+var youLikeMeat = true;
+var myNum = 10;
 
+if(youLikeMeat){
 
-// the second alert
-alert("Hello, World!"); 
+    document.write("you like meat");
+} else {
+
+    document.write("you hate meat");
+
+}
